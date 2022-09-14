@@ -5,62 +5,62 @@
 				0,
 				0
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
+			"loop": false,
 			"name": "Idle"
 		},
 		{
 			"offsets": [
-				20,
-				30
+				-3,
+				-2
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
+			"loop": false,
 			"name": "Up"
 		},
 		{
 			"offsets": [
-				83,
-				-75
+				-2,
+				-7
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
+			"loop": false,
 			"name": "Down"
 		},
 		{
 			"offsets": [
-				88,
-				-10
+				5,
+				-4
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
+			"loop": false,
 			"name": "Left"
 		},
 		{
 			"offsets": [
-				-53,
-				2
+				-11,
+				-9
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
+			"loop": false,
 			"name": "Right"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfnm/pico",
+	"image": "characters/bfnm/garcy",
 	"position": [
-		100,
-		250
+		-350,
+		0
 	],
 	"healthicon": "NoChar",
 	"flip_x": false,

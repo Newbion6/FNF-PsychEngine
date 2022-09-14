@@ -8,62 +8,62 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				30
+				80,
+				240
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				378,
-				402
+				-110,
+				-230
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				400,
+				-90
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "right",
+			"name": "Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-150,
+				-140
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "left",
+			"name": "Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfnm/spirit",
+	"image": "characters/bfnm/b3gf",
 	"position": [
-		400,
-		400
+		-750,
+		150
 	],
 	"healthicon": "NoChar",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		0,
 		0,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 6
+	"scale": 1.2
 }

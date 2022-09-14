@@ -8,62 +8,62 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				30
+				-20,
+				53
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				378,
-				402
+				-65,
+				-148
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				140,
+				-30
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "right",
+			"name": "Left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-80,
+				-130
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "left",
+			"name": "Right",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfnm/spirit",
+	"image": "characters/bfnm/nikku",
 	"position": [
-		400,
-		400
+		-550,
+		-50
 	],
 	"healthicon": "NoChar",
-	"flip_x": true,
+	"flip_x": false,
 	"healthbar_colors": [
 		0,
 		0,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 6
+	"scale": 1
 }

@@ -8,59 +8,59 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "Idle",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				30
+				100,
+				50
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "up",
+			"name": "Up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				378,
-				402
+				90,
+				20
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "down",
+			"name": "Down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				190,
+				50
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "right",
+			"name": "Right",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				-10,
+				10
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "left",
+			"name": "Left",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfnm/spirit",
+	"image": "characters/bfnm/sarv",
 	"position": [
-		400,
-		400
+		100,
+		-100
 	],
 	"healthicon": "NoChar",
 	"flip_x": true,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 6
+	"scale": 1
 }

@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				20,
-				30
+				32,
+				47
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				83,
-				-75
+				20,
+				-61
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,35 +35,35 @@
 		},
 		{
 			"offsets": [
-				88,
-				-10
+				79,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Left"
+			"name": "Right"
 		},
 		{
 			"offsets": [
-				-53,
-				2
+				12,
+				-14
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Right"
+			"name": "Left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfnm/pico",
+	"image": "characters/bfnm/tails",
 	"position": [
-		100,
-		250
+		300,
+		300
 	],
 	"healthicon": "NoChar",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		0,
 		0,
@@ -74,5 +74,5 @@
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.2
 }
