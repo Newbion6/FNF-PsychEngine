@@ -1,0 +1,311 @@
+{
+	"song": {
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Change Character",
+						"1",
+						"sarv"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"1",
+						"hex"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"1",
+						"shag"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"1",
+						"b3gf"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				59850,
+				[
+					[
+						"FadeOpponent",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				60375,
+				[
+					[
+						"Change Character",
+						"1",
+						"tails"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"FadeOpponent",
+						"1",
+						"0.01"
+					],
+					[
+						"MoveNotes",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Character",
+						"1",
+						"sky"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Change Character",
+						"1",
+						"NoChar"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Character",
+						"1",
+						"spirit"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"2",
+						"0"
+					]
+				]
+			],
+			[
+				107680,
+				[
+					[
+						"FadeOpponent",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				108187.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"pico"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"FadeOpponent",
+						"1",
+						"0.001"
+					]
+				]
+			],
+			[
+				119680,
+				[
+					[
+						"FadeOpponent",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				120187.5,
+				[
+					[
+						"Change Character",
+						"1",
+						"whitmore"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"FadeOpponent",
+						"1",
+						"0.001"
+					],
+					[
+						"MoveNotes",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Change Character",
+						"1",
+						"NoChar"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Character",
+						"1",
+						"garcy"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Change Character",
+						"1",
+						"nikku"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Change Character",
+						"1",
+						"NoChar"
+					],
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					],
+					[
+						"MoveNotes",
+						"1",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}
